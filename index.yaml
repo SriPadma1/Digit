@@ -15,7 +15,7 @@ entries:
     digest: b97fbc39d903d11a22cda96637034cc5c62268cc1af1beb80b89005903c4d7bb
     name: backbone-services
     urls:
-    - https://github.com/naresh-egov/digit/releases/download/2.9/backbone-services-2.9.0.tgz
+    - https://github.com/SriPadma1/Digit/releases/download/2.9/backbone-services-2.9.0.tgz
     version: 2.9.0
   core-services:
   - apiVersion: v2
@@ -149,6 +149,6 @@ entries:
     digest: e2767bd01f4da441fbc866aeb3acc457ca9d41dbad14730ecb4633ff4587e0df
     name: core-services
     urls:
-    - https://github.com/naresh-egov/digit/releases/download/2.9/core-services-1.0.0.tgz
+    - https://github.com/SriPadma1/Digit/releases/download/2.9/core-services-1.0.0.tgz
     version: 1.0.0
 generated: "2024-01-13T00:09:01.154399+05:30"
