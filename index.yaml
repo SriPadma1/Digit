@@ -145,6 +145,9 @@ entries:
     - name: egov-data-uploader
       repository: file://egov-data-uploader
       version: 0.1.0
+    - name: common
+      version: 0.0.5
+      repository: file://../common
     description: A Helm Chart to Deploy Digit Core Services
     digest: e2767bd01f4da441fbc866aeb3acc457ca9d41dbad14730ecb4633ff4587e0df
     name: core-services
